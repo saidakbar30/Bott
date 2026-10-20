@@ -8,8 +8,8 @@ CHANNEL = "@karburatornew"
 CHANNEL_URL = "https://t.me/karburatornew"
 
 # Ustaxona lokatsiyasi (Google Maps'dan koordinata oling)
-LAT = 40.0000
-LON = 71.0000
+LAT = 40.45399
+LON = 71.66339
 
 DB_PATH = "carburator.db"
 
